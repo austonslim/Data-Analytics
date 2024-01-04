@@ -35,4 +35,5 @@ Feel free to reach out to me for collaboration, inquiries, or just to connect!
 
 - LinkedIn: https://www.linkedin.com/in/nwokeukwu-augustine-73085415b/
 - Email: austonslim@gmail.com
+- Website: https://austonslim.github.io/portfolio/
 - Thank you for visiting my Data Analytics Portfolio!
