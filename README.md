@@ -17,7 +17,7 @@ I am Nwokeukwu Augustine, a dedicated Data Analyst with a passion for turning da
 - **Tools and Technologies:** Tableau, SQL, Excel.
 - **Key Achievements:** This project provides a dynamic HR Analytics Dashboard that empowers HR professionals and organizational leaders with actionable insights. The goal is to foster a data-driven approach to employee retention, ultimately improving the overall health and stability of the workforce.
 
-### 3. Nigeria, a dumping ground for Europe fast fashion
+### 3. Nigeria, A Dumping Ground For Europe Fast Fashion
 - **Description:** he "Mapping the Fast Fashion Trail" project sheds light on Nigeria's role as a destination for discarded clothing from the fast fashion industry in Europe. Through rigorous data collection, cleaning, and processing techniques, coupled with compelling visualizations created using Tableau, this project seeks to uncover the impact of this phenomenon on local economies and the environment.
 - **Tools and Technologies:** Tableau, SQL, Excel, Google form.
 - **Key Achievements:** This project aims to address these challenges by providing a comprehensive analysis of the fast fashion trail, showcasing the scale of the issue, and advocating for sustainable solutions. By leveraging data, visualization, and storytelling, the project endeavors to drive informed discussions and actions towards a more sustainable and responsible fashion industry.
