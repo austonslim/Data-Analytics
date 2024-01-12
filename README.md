@@ -3,7 +3,7 @@
 Welcome to my Data Analytics Portfolio! This repository showcases my journey and expertise in the field of data analysis, featuring a collection of projects that highlight my skills in extracting meaningful insights from raw data.
 
 ## About Me
-I am Nwokeukwu Augustine, a dedicated Data Analyst with a passion for turning data into actionable intelligence. With a background in computer science and a Data Analytic professsional certification, I bring a blend of analytical skills, business acumen, and a commitment to continuous learning.
+I am Nwokeukwu Augustine, a dedicated Data Analyst with a passion for turning data into actionable intelligence. With a background in computer science and a Data Analytic professional certification, I bring a blend of analytical skills, business acumen, and a commitment to continuous learning.
 
 ## Projects
 
